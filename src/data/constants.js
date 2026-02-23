@@ -155,3 +155,4 @@ export const DEFAULT_CABINET_CONFIG = {
   stripeEnabled: false, stripePublicKey: '',
   googleCalendarEnabled: false, googleCalendarId: '',
 };
+ 
